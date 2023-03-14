@@ -1,0 +1,14 @@
+{
+  "paid_orders": [],
+  "session": "POS/00005",
+  "session_id": 5,
+  "date": "Sat, 18 Feb 2023 17:42:24 GMT",
+  "version": [
+    "saas~16",
+    1,
+    0,
+    "final",
+    0,
+    "e"
+  ]
+}
